@@ -11,6 +11,7 @@
     data/public/: 题目给定的原始数据     
     (https://pan.baidu.com/s/1nuJNz9B) 
     提取密码：t2ek   
+    运行之前，请建立对应的文件夹，并导入数据。   
     model/：运行的model文件   
     feature/: 提取特征的py文件     
     saveModel/: 保存model，可以不使用       
